@@ -1,0 +1,10 @@
+{
+  "energia": "NormalDistribution",
+  "monoxido": "Logicstic",
+  "dioxido": "Triangular",
+  "humo": "Beta",
+  "temperatura": "NormalDistribution",
+  "gas": "Logicstic",
+  "ruido": "Triangular",
+  "fecha": "Time"
+}
